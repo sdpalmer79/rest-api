@@ -1,0 +1,9 @@
+{
+    "env":{
+        "MONGO_USER": "admin",
+        "MONGO_PASSWORD": "nvkyatRRxD0tRgBv",
+        "MONGO_DEFAULT_DB": "myFirstDatabase",
+        "MONGO_SERVER": "cluster0.saw8a.mongodb.net",
+        "PORT": "8080"
+    }
+}
